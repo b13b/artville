@@ -93,10 +93,10 @@
           </ol>
           <div class="carousel-inner" role="listbox">
             <div class="carousel-item active">
-              <img class="d-block img-fluid" src=paint.jpg" alt="First slide">
+              <img class="d-block img-fluid" src="paint.jpg" alt="First slide">
             </div>
             <div class="carousel-item">
-              <img class="d-block img-fluid" src=" paint2.jpeg" alt="Second slide">
+              <img class="d-block img-fluid" src="paint2.jpeg" alt="Second slide">
             </div>
             <div class="carousel-item">
               <img class="d-block img-fluid" src="paint3.jpeg" alt="Third slide">
@@ -119,7 +119,7 @@
                 <h4 class="card-title">
                     <a href="#">Serene</a>
                   </h4>
-                  <h5>?5,976</h5>
+                  <h5>₹5,976</h5>
             
               </div>
               <div class="card-footer">
@@ -158,7 +158,7 @@
                 <h4 class="card-title">
                   <a href="#">ART and Soul</a>
                 </h4>
-                <h5>?1,500</h5>
+                <h5>₹1,500</h5>
   
               </div>
               <div class="card-footer">
@@ -195,7 +195,7 @@
                 <h4 class="card-title">
                   <a href="#">color-valley</a>
                 </h4>
-                <h5>?2,000</h5>
+                <h5>₹2,000</h5>
           
               </div>
               <div class="card-footer">
@@ -232,7 +232,7 @@
                 <h4 class="card-title">
                   <a href="#">Dream</a>
                 </h4>
-                <h5>?1,999</h5>
+                <h5>₹1,999</h5>
                 
               </div>
               <div class="card-footer">
@@ -269,7 +269,7 @@
                 <h4 class="card-title">
                   <a href="#">Insight</a>
                 </h4>
-                <h5>?2,999</h5>
+                <h5>₹2,999</h5>
     
               </div>
               <div class="card-footer">
@@ -306,7 +306,7 @@
                 <h4 class="card-title">
                   <a href="#">pretty paints</a>
                 </h4>
-                <h5>?2,500</h5>
+                <h5>₹2,500</h5>
         
               </div>
               <div class="card-footer">
